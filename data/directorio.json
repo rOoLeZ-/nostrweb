@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T19:34:40.794930+00:00",
-  "total_profiles": 30,
+  "updated_at": "2026-08-07T19:34:48.267412+00:00",
+  "total_profiles": 31,
   "profiles": [
     {
       "npub": "npub19yw2tgzv5tv7klsl5ffsdzuyuqedq7mnyzd08c2lqpmu70kt7vnqp6wvk3",
@@ -181,6 +181,12 @@
       "display_name": "DavidPeraltas",
       "njump_url": "https://njump.me/npub1hjjhc33ddm7fl087t93y64gx7xguk5tt847vnqc3dwv54u58hzws520vwv",
       "added_at": "2026-07-09T08:41:28.945602+00:00"
+    },
+    {
+      "npub": "npub19lnjvvm6zhxdvvndftx838kv0r9c5gaeu6kg92xqw638yzj9ngrq07en47",
+      "display_name": "chuan_mi04",
+      "njump_url": "https://njump.me/npub19lnjvvm6zhxdvvndftx838kv0r9c5gaeu6kg92xqw638yzj9ngrq07en47",
+      "added_at": "2026-08-07T19:34:39.760455+00:00"
     }
   ]
 }
