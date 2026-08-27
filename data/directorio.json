@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-27T17:29:15.282022+00:00",
-  "total_profiles": 31,
+  "updated_at": "2026-08-27T17:30:19.023423+00:00",
+  "total_profiles": 32,
   "profiles": [
     {
       "npub": "npub19yw2tgzv5tv7klsl5ffsdzuyuqedq7mnyzd08c2lqpmu70kt7vnqp6wvk3",
@@ -187,6 +187,12 @@
       "display_name": "chuan_mi04",
       "njump_url": "https://njump.me/npub19lnjvvm6zhxdvvndftx838kv0r9c5gaeu6kg92xqw638yzj9ngrq07en47",
       "added_at": "2026-08-07T19:34:39.760455+00:00"
+    },
+    {
+      "npub": "npub1terrydkwqtd6sz3sd46jx3syldg9c29f9nv9cwvf05w06xml29gq9jt46p",
+      "display_name": "terry_seizu",
+      "njump_url": "https://njump.me/npub1terrydkwqtd6sz3sd46jx3syldg9c29f9nv9cwvf05w06xml29gq9jt46p",
+      "added_at": "2026-08-27T17:29:14.231452+00:00"
     }
   ]
 }
